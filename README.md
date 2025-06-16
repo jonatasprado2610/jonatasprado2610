@@ -1,7 +1,7 @@
 ## Olá eu sou Jonatas Prado
 
 - Desenvolvedor Web 💻.
-- Futuro Desenvolvedor FullStack 💻.
+- Desenvolvedor FullStack 💻.
 
 
 
