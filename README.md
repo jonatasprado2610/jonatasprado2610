@@ -12,7 +12,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas  
 
-<div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 15px; flex-direction:row; align-items: center; flex-wrap: wrap;">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
